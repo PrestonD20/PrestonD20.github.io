@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- This is Davids's index page -->
+        <title>My Web Page</title> 
+    </head>
+    <body>
+        <p>Hello World</p>
+	<img src="/images/mcdonald-fries.png" alt="a Mchappy fry">
+    </body>
+</html>
